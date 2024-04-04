@@ -6,7 +6,7 @@ annotate service.POs with @(
         PO_ID,
         PARTNER_GUID.COMPANY_NAME,
         GROSS_AMOUNT,
-        OVERALL_STATUS
+        
 
     ],
     UI.LineItem:[
